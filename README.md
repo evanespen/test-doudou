@@ -1,7 +1,7 @@
 # Consignes
 Tu dois refaire ce site **(SAUF LA DIV AVEC LA BORDURE ROUGE)**, selon ces consignes :
 
-- la police de tout le site est /"Raleway"/ depuis google fonts, version /"medium 500"/
+- la police de tout le site est *"Raleway"* depuis google fonts, version *"medium 500"*
 - les couleurs sont :
     - vert : `#343330`
     - gris : `#919538`
